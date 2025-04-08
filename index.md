@@ -1,3 +1,3 @@
-``` javascript
-var myVar = "Hello, world!";
-```
+- [ ] A
+- [ ] B
+- [ ] C
